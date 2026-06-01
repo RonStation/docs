@@ -1,0 +1,17 @@
+[book]
+title = "RonStation documentation Wiki - WIP WIP WIP"
+authors = ["Magelfik"]
+language = "en"
+description = "A collection of all documentation related to RonStation."
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+additional-css = ["assets/app.css"]
+additional-js = ["assets/mermaid.min.js", "assets/mermaid-init.js"]
+no-section-label = true
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
