@@ -1,6 +1,7 @@
-# Summary
+RonStation Wiki
+=====================
 
-[The Ronstation Wiki](./index.md)
+[The Ronstation Wiki](index.md)
 
 RonStation community
 ======
