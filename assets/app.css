@@ -574,10 +574,6 @@ details[open].admonition > summary.admonition-title::after {
   }
 }
 
-.mdbook-content > p > strong {
-    color: #cd4141; /* subtle red */
-}
-
 ol.chapter > li.chapter-item > ol.section > li.chapter-item > div.on-this-page > ol.section > li.header-item > ol.section > li.header-item {
     display: none;
 }

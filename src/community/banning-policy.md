@@ -88,7 +88,7 @@ First, second, third, and fourth offense refers to the amount of offenses in the
 ```
 
 ```admonish info
-Bolded suggestions (in red) in ranges are recommended for most cases.
+Bolded suggestions in ranges are recommended for most cases.
 ```
 
 ```admonish info
