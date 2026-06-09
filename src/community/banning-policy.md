@@ -293,7 +293,7 @@ No modifiers apply. Only the prior RDM offense is relevant because it is the onl
 
 ## Appeals Team
 
-The Appeals Team is the whole Admin Team, excluding the admin(s) who issued the ban, tasked with handling ban appeals. Any member of the Appeals Team is capable of handling any appeal on their own, as long as they did not issue the ban. Head game admins are always members of the Appeals Team.
+The Appeals Team is the whole Admin Team, tasked with handling ban appeals. Any member of the Appeals Team is capable of handling any appeal on their own. Head game admins are always members of the Appeals Team.
 
 Any member of Appeals Team must put an appeal to a vote within the Appeals Team.
 
