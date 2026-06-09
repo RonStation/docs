@@ -293,11 +293,13 @@ No modifiers apply. Only the prior RDM offense is relevant because it is the onl
 
 ## Appeals Team
 
-The Appeals Team is a group of admins within the Admin Team specifically tasked with handling ban appeals. Their members are appointed, and removed via Admin Team Votes. Any member of the Appeals Team is capable of handling any appeal on their own. Head game admins are always members of the Appeals Team.
+The Appeals Team is the whole Admin Team, excluding the admin(s) who issued the ban, tasked with handling ban appeals. Any member of the Appeals Team is capable of handling any appeal on their own, as long as they did not issue the ban. Head game admins are always members of the Appeals Team.
 
-An Appeals Team vote is required before placing a Voucher Ban as the outcome to an appeal. An absolute majority of its members must vote for a voucher in order for it to be applied. Should this not be met, but the voucher option holds a relative majority then the ban shall be reduced to 6 months.
+Any member of Appeals Team must put an appeal to a vote within the Appeals Team.
 
-Any member of Appeals Team may put an appeal to a vote within the Appeals Team, or the admin team as a whole instead of handling it on their own. The Admin Team is competent to decide on anything a singular member, or the Appeals Team as a whole is competent to decide. A vote within the entire Admin Team is required where a Permanent Ban is considered.
+Should the appeal be challenged or if the appeal vote did not reach a consensus (at least 75% of voters agree), then the vote is passed to the head admins.
+
+The appeals process is monitored by the Project Management Board.
 
 ## Appeals of Incorrect Bans
 
@@ -309,11 +311,6 @@ If an appeal is currently assigned to someone, it is generally best to let them 
 * the processor has not responded to the appeal recently,
 * the processor has somehow indicated that they are not going to process the appeal, or
 * a head game admin has told you that you can process the appeal.
-
-## Processing by non-Appeal Team Members
-
-Game Admins and Trial Game Admins may not process appeals without the supervision of an Appeals Team Member. Before an outcome can be made it must be approved by the supervising Appeals Team member.
-The only exception to this is when an admin reduces or removes their own ban.
 
 ## Appealling the same ban multiple times 
 
@@ -351,7 +348,7 @@ If a ban appeal is handled by the banning admin and the ban is not fully removed
 	6. Ask the player questions that are important for the processing of the appeal.
 	7. Attempt to allow the player to respond to information which will be considered in the appeal that it would be unfair to not allow them the opportunity to address.
 
-7. If Applicable, Run a vote
+7. Run a vote
  	- Votes must run at least 24 hours unless the net vote criteria is met.
 	- Votes must not be closed if there is ongoing discussion unless the net vote criteria is met.
 	- Votes must be made in one of the designated internal appeals discussion channels.

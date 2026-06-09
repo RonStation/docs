@@ -46,7 +46,7 @@ An "*event*" here is generally meant to be any admin intervention in the round t
 * Spawning a cookie for a prayer is **not considered as an event**.
 * Spawning a sentient monkey that runs around and messes with people **is considered as an event**.
 
-Heavily round-altering admin events (e.g. powerful wizard invasion, nations) should be voted for by the playerbase with `customvote` and only done on Extended (which means forcing the preset before the round starts!).
+Heavily round-altering admin events (e.g. powerful wizard invasion, nations) should be voted for by the playerbase with `customvote` and only done on Extended (which means forcing the preset before the round starts !).
 
 Events overall should not be something that occur every round. Log what events you've done in Discord (when & what, and no need to log very minor stuff), and try not to overwhelm players. That said, a lot of lenience is given towards what kinds of events can be run.
 
@@ -61,17 +61,15 @@ Bans and ban appeals are covered by the [Banning Policy](./banning-policy.md). A
 ### 2.6 **Use notes as consideration for punishment, and give notes frequently**
 If a player is AHelped for some behavior, but this behavior skirts the rules and is not explicitly bannable, you should always give them a note for it. When handling AHelps, you should always check their notes before interrogation or applying punishment. If a user is noted to have been skirting the rules multiple times previously in their notes, you may apply a ban for this behavior.
 
-
-
 ## 3. Head Admin Policy
 
 ### 3.1 **Hold vote / discussion threads for all major decisions made**
 In discord, just make a new private thread and ping game admins. If it's related to junior admin promotion/accepting, remove all current junior admins from the thread. Not all of them need to be votes, and votes can often hamper actual discussion, but they should always be done. Some discretion is given on what counts as a 'major' enough decision to warrant a thread.
 
 ### 3.2 **Junior Admin discussions should be held at least every two weeks.**
-Can happen more frequently. These don't necessarily need to be votes, but just a check-up on how all of the current trials are doing, what we can nudge them on, whether anyone is already promotable, etc.
+Can happen more frequently. These don't necessarily need to be votes, but just a check-up on how all of the current trials are doing, what we can nudge them on, whether anyone is already promotable, etc.  
 
-** This rule is suspended until the server gets enough traction.**
+**This rule is suspended until the server gets enough traction.**
 
 ### 3.3 **Vote threads relating to admins in Discord should always be archived/locked after the fact**
 Any information that needs to be long-term from these should be outside of the thread.
