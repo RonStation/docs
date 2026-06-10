@@ -33,25 +33,21 @@ Voucher bans should typically only be placed as the result of an unsuccessful ap
 
 # Banning Guidelines
 
-```admonish info
-Administrators are not required to follow the times suggested by the banning guidelines when placing a ban, but bans placed within the guidelines are presumed to be of an appropriate length.
-```
+> [!NOTE]  
+> Administrators are not required to follow the times suggested by the banning guidelines when placing a ban, but bans placed within the guidelines are presumed to be of an appropriate length.
 
-```admonish info
-All instructions in the subsections of the *Banning Guidelines* section only refer to the guidelines, not policy. A statement saying "X is not permitted" means it is not permitted under the guidelines, not that it may never be done.
-```
 
-```admonish warning
-Administrators who place bans outside of the guidelines are required to be able to justify the decision to the admin team.
-```
+> [!NOTE]  
+> All instructions in the subsections of the *Banning Guidelines* section only refer to the guidelines, not policy. A statement saying "X is not permitted" means it is not permitted under the guidelines, not that it may never be done.
 
-```admonish info
-Consulting the admin team via Discord, or consulting multiple (2 or more) other game admins in-game through admin chat or ahelp does not result in those bans being presumed to be of an appropriate length, but is sufficient justification for straying from the guidelines.
-```
+> [!WARNING]
+> Administrators who place bans outside of the guidelines are required to be able to justify the decision to the admin team.
 
-```admonish info
-Any total suggested time greater than, not equal to, 7 days can be substituted with an indefinite ban and still be considered within guidelines.
-```
+> [!NOTE]
+> Consulting the admin team via Discord, or consulting multiple (2 or more) other game admins in-game through admin chat or ahelp does not result in those bans being presumed to be of an appropriate length, but is sufficient justification for straying from the guidelines.
+
+> [!NOTE]
+> Any total suggested time greater than, not equal to, 7 days can be substituted with an indefinite ban and still be considered within guidelines.
 
 ## Evading AHelp
 
@@ -83,17 +79,14 @@ Bans of additional non-username information should typically include the GUID of
 
 ## Offense Table
 
-```admonish info
-First, second, third, and fourth offense refers to the amount of offenses in the grouping category in the last 6 months. Suggestions for subsequent offenses are double the last defined suggestion.
-```
+> [!NOTE]  
+> First, second, third, and fourth offense refers to the amount of offenses in the grouping category in the last 6 months. Suggestions for subsequent offenses are double the last defined suggestion.
 
-```admonish info
-Bolded suggestions in ranges are recommended for most cases.
-```
+> [!NOTE]  
+> Bolded suggestions in ranges are recommended for most cases.
 
-```admonish info
-Rule violations not in the offense table can still have bans applied, but have no guidelines. Administrators can look to guidelines of similar offenses to aid in determining a response.
-```
+> [!NOTE]  
+> Rule violations not in the offense table can still have bans applied, but have no guidelines. Administrators can look to guidelines of similar offenses to aid in determining a response.
 
 | Abreviation | Meaning    |
 |-------------|------------|
@@ -183,25 +176,21 @@ Rule violations not in the offense table can still have bans applied, but have n
 
 ## Modifiers Tables
 
-```admonish info
+> [!NOTE]  
 > Modifiers can be applied to each offense that meets their conditions. They are typically in the form of multipliers.
-```
 
-```admonish info
-Warnings cannot be multiplied. An offense which lists W as a suggestion cannot have that suggestion multiplied into a GB, but the guideline can still be strayed from with the same conditions as other parts of the guidelines can be strayed from.
-```
+> [!IMPORTANT]  
+> Warnings cannot be multiplied. An offense which lists W as a suggestion cannot have that suggestion multiplied into a GB, but the guideline can still be strayed from with the same conditions as other parts of the guidelines can be strayed from.
 
-```admonish info
-An offense which lists W - 12h GB as a suggestion that is affected by a 2x multiplier would become a W - 24h GB suggestion.
-```
+> [!NOTE]  
+> An offense which lists W - 12h GB as a suggestion that is affected by a 2x multiplier would become a W - 24h GB suggestion.
 
 --------------------
 
 ### Mitigating: Required
 
-```admonish info
-These mitigating modifiers must be applied if they are applicable.
-```
+> [!NOTE]  
+> These mitigating modifiers must be applied if they are applicable.
 
 | Modifier | Modification |
 |----------|--------------|
@@ -211,9 +200,8 @@ These mitigating modifiers must be applied if they are applicable.
 
 ### Mitigating: Discretionary
 
-```admonish info
-These mitigating modifiers are applied at the discretion of the admin and may be partially applied. Admins are highly encouraged to consider applying these when they are relevant as they can significantly help to avoid bans which will be accepted on appeal.
-```
+> [!NOTE]  
+> These mitigating modifiers are applied at the discretion of the admin and may be partially applied. Admins are highly encouraged to consider applying these when they are relevant as they can significantly help to avoid bans which will be accepted on appeal.
 
 | Modifier | Modification |
 |----------|--------------|
@@ -223,9 +211,9 @@ These mitigating modifiers are applied at the discretion of the admin and may be
 
 ### Aggravating
 
-```admonish info
-Aggravating modifieres are applied at the discretion of the admin and may be partially applied.
-```
+> [!NOTE]  
+> Aggravating modifieres are applied at the discretion of the admin and may be partially applied.
+
 
 | Modifier | Modification |
 |----------|--------------|
@@ -256,9 +244,8 @@ The total time of a role ban may be rounded to the nearest available autofill.
 
 ## Examples
 
-```admonish info
-These examples may be outdated due to a banning policy update. Please point out any issues if you notice them.
-```
+> [!IMPORTANT]  
+> These examples may be outdated due to a banning policy update. Please point out any issues if you notice them.
 
 ### AME Sabotage
 A technical assistant sets the AME to 50. Their offenses are:

@@ -81,7 +81,7 @@ Don't have to forcibly come to agreement on them, but its the headmin's job to e
 
 ## 4. Server Admin Policy
 
-### 4.1 **Guide the junior admins to the best of your capacity**
+### 4.1 **Guide the junior admins to the best of your capacity**
 Junior admins are supposed to learn just like a security cadet should. Show responsibility and answer their questions to the best of your capacity. When in doubt, you may ask your fellow admins or head admins for advice.
 
 You are also requested to report any incident that might have happened with a junior admin to head admins.
