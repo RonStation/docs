@@ -47,7 +47,7 @@ Voucher bans should typically only be placed as the result of an unsuccessful ap
 > Consulting the admin team via Discord, or consulting multiple (2 or more) other game admins in-game through admin chat or ahelp does not result in those bans being presumed to be of an appropriate length, but is sufficient justification for straying from the guidelines.
 
 > [!NOTE]
-> Any total suggested time greater than, not equal to, 7 days can be substituted with an indefinite ban and still be considered within guidelines.
+> Any total suggested time greater than, not equal to, 30 days can be substituted with an indefinite ban and still be considered within guidelines.
 
 ## Evading AHelp
 
@@ -106,7 +106,7 @@ Bans of additional non-username information should typically include the GUID of
 | Non-grouping | ERP | Indef GB | | | |
 | Non-grouping | Sexual content | W - 3d GB | 7d GB | Indef GB | |
 | Non-grouping | Metacommunications | Indef GB | | | |
-| Non-grouping | Ban Evasion | Voucher Ban | If after an accepted voucher ban, permanent ban.<br/>Otherwise, extend voucher ban to 6 months from evasion attempt. | | |
+| Non-grouping | Ban Evasion | 7D GB | 14D GB | Indef GB | |
 | Language | Non-english chat | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Language | Solely non-english chat | W | Indef GB | | |
 | Exploits | Bugs/exploits | **W** - 7d GB | 12hr - 7d GB | 3d - 15d GB | 7d - 15d GB |
