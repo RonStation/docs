@@ -5,6 +5,10 @@ This is RonStation's wiki.
 > If you are having difficulties with logging into the game, please try the following resources:  
 > * [🔊 Discord](https://discord.gg/bcV9sCNHnN). This is the where the RonStation community is.
 
+> [!CAUTION]
+> **Work in progress*
+> This documentation is still a work in progress. We are doing what we can to keep it up-to-date.
+> When in doubt, please ask on the Discord.
 
 This wiki is written in [Markdown](https://docs.requarks.io/en/editors/markdown) using `mdbook`.
 
