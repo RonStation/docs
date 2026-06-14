@@ -2,7 +2,7 @@
 
 ## 1. General rules
 
-### 1.1 **Any change should have its issue on GitHub.**
+### 1.1 **Any change should have its issue on GitHub.**
 
 When working on something, please make sure it has its related task, issue, suggestion, PR or whatever on GitHub.
 Exceptions to this are emergency patches.
