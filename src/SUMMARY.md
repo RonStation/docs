@@ -8,7 +8,9 @@ RonStation community
 
 ----------------------
 - [Community](./community/community.md)
-    - [Administration Policy](./community/admin-policy.md)
+    - [IG Administration Policy](./community/admin-policy.md)
+    - [Discord Administration Policy](./community/discord-policy.md)
+    - [GitHub Policy](./community/github-policy.md)
     - [Banning Policy](./community/banning-policy.md)
 
 
