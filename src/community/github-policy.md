@@ -29,4 +29,7 @@ In cases where this is not possible, the approver takes responsibility of the me
 ### 1.6 **Quality standards**
 
 All PRs, regardless of their priority, should match certain quality standards. The Head Maintainer
-sets these standards.
+sets these standards. As of last discussion, those were :
+
+* All PRs should be tested beforehand, and making sure no regressions, no crashes, and no odd behaviour appear.
+* All warning, errors and such should be kept at a strict minimum.

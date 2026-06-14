@@ -28,7 +28,7 @@ While the project management board will try to keep everyone updated, it might b
 
 
 ## 2. Game administration
-Rules specific to adminning a round of SS13.
+Rules specific to adminning a round of SS14.
 
 ### 2.1 **Do not ever process a case you are/were a part of.**
 Even if you've started adminning after dying, do not process a case you were involved in. Request help for your fellow admins in case you need to process a case.
