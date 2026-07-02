@@ -6,7 +6,7 @@ flowchart TD
     subgraph ModTeam["Moderation Team"]
         Trialmin[Junior Admins]
         Admin[Server Admins]
-        Oldmin[Senior Admins]
+        Oldmin[Head Admins]
     end
 
     Trialmin --"Answer to"--> Admin
