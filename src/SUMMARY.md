@@ -13,7 +13,8 @@ RonStation community
     - [GitHub Policy](./community/github-policy.md)
     - [Banning Policy](./community/banning-policy.md)
 
-
+- [Infrastucture](./infrastructure/infrastructure.md)
+    - [Development server](./infrastructure/dev-server.md)
 
 RonStation Staff
 ====

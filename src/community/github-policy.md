@@ -33,3 +33,7 @@ sets these standards. As of last discussion, those were :
 
 * All PRs should be tested beforehand, and making sure no regressions, no crashes, and no odd behaviour appear.
 * All warning, errors and such should be kept at a strict minimum.
+
+### 1.7 **Validating changes**
+
+All PRs, regardless of their priority, should be tested locally **and** on the [development server](/infrastructure/dev-server.md).
